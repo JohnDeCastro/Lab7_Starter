@@ -3,4 +3,4 @@
 3. Navigation mode primarily analyzes after loading but does not analyze interactions / changes in content. Snapshot mode analyzes page as-is "snapshot", prioritizing accessiblity checking. 
 4. Add `<meta name="viewport">` tag, add meta desciption, and use legible font sizes. (I used PageSpeed Insights rather than Chrome). 
 
-
+![Test Results](./assets/lab7-testresults.jpg)
